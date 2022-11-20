@@ -1,14 +1,48 @@
 {
-  "users": [
+  "endpoint1": [
     {
-      "id": "1",
-      "name": "Kent"
+      "id": 1,
+      "name": "Kent Wong",
+      "phone": "0488888888"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "phone": "0477777777"
     }
   ],
-  "items": [
+  "endpoint2": [
     {
-        "id": "1",
-        "product": "car"
+      "id": 1,
+      "product": "pen",
+      "price": 89.99,
+      "instock": true
+    },
+    {
+      "id": 2,
+      "product": "paper",
+      "price": 49.99,
+      "instock": false
+    }
+  ],
+  "endpoint3": [
+    {
+      "id": 1,
+      "date": "20220101",
+      "suburb": "Epping",
+      "temperature": 18.5
+    },
+    {
+      "id": 2,
+      "date": "20220101",
+      "suburb": "Redfern",
+      "temperature": 23.4
+    },
+    {
+      "date": "20220101",
+      "suburb": "Surry Hills",
+      "temperature": 27.4,
+      "id": 3
     }
   ]
 }
