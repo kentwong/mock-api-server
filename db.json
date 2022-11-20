@@ -1,8 +1,14 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "name": "Kent"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "Kent"
+    }
+  ],
+  "items": [
+    {
+        "id": "1",
+        "product": "car"
+    }
+  ]
 }
